@@ -1,5 +1,13 @@
 # portfolio-prep
 
+## About Me
+
+![head shot](assets/IMG_20230817_102813.jpg)
+
+## Background
+
+![Wallpaper](assets/wall.png)
+
 ## Projects
 
 ### Odd Duck
